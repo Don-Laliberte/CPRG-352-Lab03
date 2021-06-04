@@ -1,0 +1,1 @@
+I didn't really get to finish this on time due to other courses and difficulties with Git. My apologies, I remember you said the Lab due dates are not that concrete but I still feel bad about it and just thought I should clarify here.
